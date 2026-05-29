@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Mukti Project Tracker",
+  "description": "An executive project monitoring and management dashboard for Mukti Cox\u0027s Bazar, featuring real-time HR \u0026 budget tracking, interactive analytics, and robust local database storage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
